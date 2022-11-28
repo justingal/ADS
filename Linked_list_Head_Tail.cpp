@@ -49,10 +49,10 @@ class linkedList {
       tail = temp;
     } else
     {
-    node *cur = head ;
-    head = temp;
-    temp -> next = cur;
-    }
+    // node *cur = head ;
+    // head = temp;
+    // temp -> next = cur;
+    // }
 
   }
 
